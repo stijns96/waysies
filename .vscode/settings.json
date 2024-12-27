@@ -1,0 +1,6 @@
+{
+  "npm.packageManager": "pnpm",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "npm-scripts.showStartNotification": false
+}
